@@ -11,7 +11,8 @@ You can try out the live application here:
 
 🔗 **URL:** [Movie Watchlist APEX App](https://g6ac2036f7cec2d-rvhr0npwczbbct5t.adb.ap-singapore-1.oraclecloudapps.com/ords/r/demo/movies-watchlist/home)  
 👤 **Username:** `DEMO`  
-🔒 **Password:** `SecretPassw0rd`
+🔒 **Password:** `b!Nu$03052005
+`
 
 ---
 
