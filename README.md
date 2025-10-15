@@ -9,7 +9,7 @@ This project leverages the power of **Oracle Cloud Infrastructure (OCI)** and th
 
 You can try out the live application here:
 
-🔗 **URL:** [Movie Watchlist APEX App](https://g6ac2036f7cec2d-rvhr0npwczbbct5t.adb.ap-singapore-1.oraclecloudapps.com/ords/r/demo/movies-watchlist/home)  
+🔗 **URL:** [Movie Watchlist APEX App](https://g3886439ddb9b01-wxijfuvnh8asyu4a.adb.ap-singapore-1.oraclecloudapps.com/ords/r/demo/movies-watchlist/home?session=304542860479714)  
 👤 **Username:** `DEMO`  
 🔒 **Password:** `b!Nu$03052005
 `
